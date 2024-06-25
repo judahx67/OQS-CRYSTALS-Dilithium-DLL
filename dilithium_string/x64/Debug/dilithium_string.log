@@ -1,0 +1,17 @@
+﻿  pch.cpp
+  dilithium_string.cpp
+G:\Do_An_LTM\dilithium_string\dilithium_string.cpp(1,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  G:\Do_An_LTM\dilithium_string\dilithium_string.cpp(1,1):
+  '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  
+G:\Do_An_LTM\dilithium_string\dilithium_string.cpp(1,1): warning C4603: '_CRT_SECURE_NO_WARNINGS': macro is not defined or definition is different after precompiled header use
+  (compiling source file '/dilithium_string.cpp')
+  G:\Do_An_LTM\dilithium_string\dilithium_string.cpp(1,1):
+  Add macro to precompiled header instead of defining here
+  G:\Do_An_LTM\dilithium_string\dilithium_string.cpp(3,1):
+  use of precompiled header
+  
+  dllmain.cpp
+  Generating Code...
+     Creating library G:\Do_An_LTM\dilithium_string\x64\Debug\dilithiumstring.lib and object G:\Do_An_LTM\dilithium_string\x64\Debug\dilithiumstring.exp
+  dilithium_string.vcxproj -> G:\Do_An_LTM\dilithium_string\x64\Debug\dilithiumstring.dll
